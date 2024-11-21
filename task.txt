@@ -2,4 +2,6 @@ Hello there!
 
 This is a test file for completion of the devops task.
 
+-----------------------
 
+This is second commit updated from staging 
